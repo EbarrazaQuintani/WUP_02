@@ -72,3 +72,5 @@ We will choose to reject the null hypothesis since the change of this happening 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+From the results of the t-test will reject the null hypothesis since the p-value was very small which meant that there is a very low chance of this happening again. This also means that c52 will produce more vitamin c (VitC) compared to the c39. The mean of c52 is 64.4 which is around 13 points higher of c39 which is 51.5 That these two styles of cultivation are different from each other and produce different amounts of vitamin c.

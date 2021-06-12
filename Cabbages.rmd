@@ -52,9 +52,16 @@ The boxplot shows that there is more vitamin C (VitC) in C52 than C39.
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
+
+From looking at the numerical results, c52 has a mean that is higher than c39 by around 13 points of VitC. Cultavation of c52 would be the way to go in order to recieve higher vitamin c on average. c39 has a mean of 51.5 and c52 is higher at 64.4 which is around 13 points higher.  
+  
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
+
 
 
 # Discussion and Conclusion
